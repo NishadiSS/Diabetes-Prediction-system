@@ -81,6 +81,9 @@ outcome using the logistic function.
 
 ![image](https://github.com/NishadiSS/MeriSKILL-Internship-Diabetes-Prediction-system/assets/119886016/bc8371a3-23a7-42ce-b4b0-41422724fd11)
 
+## 💫Conclusion
+In conclusion, this project demonstrates the feasibility of using machine learning techniques to predict diabetes in female individuals of Pima Indian heritage. The trained model can serve as a valuable tool for healthcare professionals in early diagnosis and intervention, ultimately improving patient outcomes.
+
 
 
 
