@@ -77,6 +77,12 @@ outcome using the logistic function.
 
 ### 📲STEP 10-CREATE FRONT_END USING DJANGO
 
+![image](https://github.com/NishadiSS/MeriSKILL-Internship-Diabetes-Prediction-system/assets/119886016/012aefb7-8a88-4168-8999-187fa7fdb32b)
+
+![image](https://github.com/NishadiSS/MeriSKILL-Internship-Diabetes-Prediction-system/assets/119886016/bc8371a3-23a7-42ce-b4b0-41422724fd11)
+
+
+
 
 
 
